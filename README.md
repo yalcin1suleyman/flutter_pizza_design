@@ -1,8 +1,8 @@
 
 # 📱 Flutter Projem
 
-Bu proje, Flutter kullanılarak geliştirilmiş bir mobil uygulamadır.  
-Amacı: Kullanıcıların günlük hedeflerini takip etmesine yardımcı olmak.
+Bu proje, Flutter kullanılarak geliştirilmiş bir mobil tasarımdır.  
+Amacı: Kullanıcılara görsel bir tasarım sunmak.
 
 ---
 
